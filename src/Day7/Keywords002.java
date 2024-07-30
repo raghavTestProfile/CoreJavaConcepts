@@ -5,7 +5,7 @@ public class Keywords002 {
 	static int a=10;
 	
 	static void p1() {
-		System.out.println("static method");
+		System.out.println("static method different class");
 	}
 	
 	
