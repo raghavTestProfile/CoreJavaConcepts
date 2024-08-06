@@ -1,6 +1,6 @@
 package Day111;
 
-public class Class01 extends Class02 implements Interface01, Interface02 {            //only on class cacn be extended while n np of interfaces can be implemented
+public class Class01 extends Class02 implements Interface01, Interface02 {            //only on class can be extended while n no of interfaces can be implemented
 
 	public void m1() {
 
